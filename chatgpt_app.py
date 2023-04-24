@@ -3,7 +3,7 @@ import openai
 from youtube_transcript_api import YouTubeTranscriptApi
 from streamlit_chat import message
 
-st.title("JPMC Machine Learning")
+st.title(JPMC Machine Learning")
 st.sidebar.image('https://clipground.com/images/miami-dade-college-logo-7.png', width=100)
 st.sidebar.header("Instructions")
 st.sidebar.info(
